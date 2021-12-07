@@ -26,8 +26,6 @@ public class KNNDriver {
 
         File testFile;
 
-        boolean isKnn = true;
-
         int i = 0;
         int kind = -1;
         int dind = -1;

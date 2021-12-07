@@ -22,7 +22,7 @@
                     <archive>
                         <manifest>
                             <mainClass>
-                                driver.KNNDriver
+                                driver.Driver
                             </mainClass>
                         </manifest>
                     </archive>
